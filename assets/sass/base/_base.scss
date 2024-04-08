@@ -1,0 +1,15 @@
+@import '../abstracts/variable';
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+    background-color: $color-bg;
+    font-family: $Hind-Siliguri;
+    color: white;
+}
